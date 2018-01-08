@@ -1,11 +1,12 @@
 # Face Recognition using Weighted Sparse Representation
 
-# Project Members:
-
+Project Members:
+----------------
 Raheen Mazgaonkar, UFID: 4714 6316
 Shikha Mehta, UFID: 4851 9256
 
-# Steps to execute: 
+Steps to execute:
+-----------------
 
 I)  Install SPAMS package:
     1) Install C++ compiler for MATLAB as follows:
