@@ -15,7 +15,7 @@ I)  Install SPAMS package:
        Home -> Addons-> Get Addons -> MATLAB Support for MinGW-w64 C/C++ Compiler
        
     2) In compile.m make the following changes:
-	i) Change path_to_compiler (line 73) to the path were MinGW-w64 C/C++ Compiler is installed.
+    	i) Change path_to_compiler (line 73) to the path were MinGW-w64 C/C++ Compiler is installed.
 	ii) Change path of spams package (line 169)
 	
     3) On MATLAB command window set path to directory of SPAMS package and run the following commands:
