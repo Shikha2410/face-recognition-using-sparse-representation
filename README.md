@@ -1,4 +1,4 @@
-FACE RECOGNITION USING WEIGHTED SPARSE REPRESENTATION
+# Face Recognition using Weighted Sparse Representation
 
 Project Members:
 Raheen Mazgaonkar, UFID: 4714 6316
