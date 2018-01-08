@@ -1,6 +1,7 @@
 # Face Recognition using Weighted Sparse Representation
 
 Project Members:
+
 Raheen Mazgaonkar, UFID: 4714 6316
 
 Shikha Mehta, UFID: 4851 9256
